@@ -1,0 +1,201 @@
+Doctor ID,Name,Specialization,Years of Experience,Affiliation,Average Rating
+CARDI_01,Dr. Jo Richardson,Cardiologist,33,"New Amyland Hospital, KS",4.46
+CARDI_02,Dr. Kelly Jones,Cardiologist,19,"Port Dylan Hospital, TX",4.92
+CARDI_03,Dr. Jerry Saunders,Cardiologist,17,"Jonathanview Hospital, AR",3.91
+CARDI_04,Dr. David Willis,Cardiologist,21,"Port Amanda Hospital, PA",4.12
+CARDI_05,Dr. Gabriel Valdez,Cardiologist,27,"East Sarah Hospital, TN",3.73
+CARDI_06,Dr. Melissa Johnson,Cardiologist,26,"Hardingmouth Hospital, IN",4.99
+CARDI_07,Dr. Cassandra Black,Cardiologist,29,"Merrittborough Hospital, VT",4.43
+CARDI_08,Dr. Kara Schneider,Cardiologist,29,"East Justin Hospital, OH",3.72
+CARDI_09,Dr. Kaitlin Black,Cardiologist,9,"North Jennifer Hospital, ID",4.55
+CARDI_10,Dr. Angela Shaw,Cardiologist,27,"Danielmouth Hospital, MO",3.68
+NEURO_01,Dr. Christine Graves,Neurologist,19,"Lake Nicoleborough Hospital, NM",3.9
+NEURO_02,Dr. Anthony Hayes,Neurologist,18,"Armstronghaven Hospital, NE",4.45
+NEURO_03,Dr. Steven Conley,Neurologist,25,"North Lorettabury Hospital, VT",4.23
+NEURO_04,Dr. Gerald Turner,Neurologist,31,"Atkinsberg Hospital, UT",4.85
+NEURO_05,Dr. Christopher Tucker,Neurologist,21,"Jamesland Hospital, MA",3.84
+NEURO_06,Dr. Steven Walker,Neurologist,31,"Port Stevebury Hospital, MI",4.01
+NEURO_07,Dr. Michael Castillo,Neurologist,15,"Newtonberg Hospital, NV",4.15
+NEURO_08,Dr. Jessica Richard,Neurologist,11,"South Jacob Hospital, OH",4.09
+NEURO_09,Dr. Melanie Meyers,Neurologist,39,"North Christineview Hospital, MD",4.05
+NEURO_10,Dr. William Ruiz,Neurologist,38,"Jessicaburgh Hospital, CA",3.96
+DERMA_01,Dr. Jose Chan,Dermatologist,31,"Perezland Hospital, NV",3.74
+DERMA_02,Dr. Samuel Pope,Dermatologist,29,"North Nathan Hospital, MT",4.48
+DERMA_03,Dr. Morgan Smith,Dermatologist,37,"Port Sherry Hospital, OH",3.57
+DERMA_04,Dr. Jonathan Baker,Dermatologist,10,"Lake Christinebury Hospital, WA",4.76
+DERMA_05,Dr. Mary Clayton,Dermatologist,39,"Port David Hospital, AK",4.39
+DERMA_06,Dr. Jessica Clark,Dermatologist,13,"Littleborough Hospital, MT",4.13
+DERMA_07,Dr. Lisa Crawford,Dermatologist,26,"Lewischester Hospital, VT",4.23
+DERMA_08,Dr. Amanda Barron,Dermatologist,40,"Lake Stephen Hospital, IL",3.51
+DERMA_09,Dr. Christina Dixon,Dermatologist,13,"Colemanland Hospital, OK",3.78
+DERMA_10,Dr. Robert Wilson,Dermatologist,21,"North Steve Hospital, LA",3.79
+PEDIA_01,Dr. Carrie Young,Pediatrician,18,"Andreabury Hospital, WA",4.43
+PEDIA_02,Dr. Linda Carlson,Pediatrician,21,"Ryanville Hospital, FL",3.98
+PEDIA_03,Dr. Jillian Graham,Pediatrician,8,"North Christopher Hospital, AZ",4.69
+PEDIA_04,Dr. Brian Miller,Pediatrician,23,"Philipmouth Hospital, HI",4.3
+PEDIA_05,Dr. Debra Smith,Pediatrician,30,"Lake Christopher Hospital, DE",4.48
+PEDIA_06,Dr. Matthew Hickman,Pediatrician,20,"West Anna Hospital, AK",3.95
+PEDIA_07,Dr. Jeffrey Baker,Pediatrician,8,"New Tina Hospital, CO",4.64
+PEDIA_08,Dr. Adam Higgins,Pediatrician,34,"South Rossland Hospital, MS",4.42
+PEDIA_09,Dr. Pamela Henderson,Pediatrician,19,"Klineville Hospital, FL",4.93
+PEDIA_10,Dr. Matthew Stevenson,Pediatrician,35,"Lake Ricardostad Hospital, VT",3.89
+ORTHO_01,Dr. James Pierce,Orthopedic Surgeon,15,"Toddfort Hospital, PA",4.83
+ORTHO_02,Dr. Jesse Harris,Orthopedic Surgeon,9,"Taylorchester Hospital, MT",4.91
+ORTHO_03,Dr. Teresa Gray,Orthopedic Surgeon,10,"Melissaville Hospital, MS",3.58
+ORTHO_04,Dr. Tanner Tucker,Orthopedic Surgeon,23,"East Marcusmouth Hospital, NM",3.62
+ORTHO_05,Dr. Daniel Harris,Orthopedic Surgeon,8,"Middletonchester Hospital, IA",4.35
+ORTHO_06,Dr. Larry Sanchez,Orthopedic Surgeon,27,"North Nicholas Hospital, GA",4.86
+ORTHO_07,Dr. Jennifer Coleman,Orthopedic Surgeon,19,"Port Nathan Hospital, SD",3.88
+ORTHO_08,Dr. Samantha Martinez,Orthopedic Surgeon,40,"Johnsonfort Hospital, LA",4.78
+ORTHO_09,Dr. Jamie Rosario,Orthopedic Surgeon,34,"North Suzannemouth Hospital, IL",4.74
+ORTHO_10,Dr. Heidi Blackwell,Orthopedic Surgeon,27,"Lake Jared Hospital, TX",4.47
+GASTR_01,Dr. Eric Johnson,Gastroenterologist,28,"Ericafurt Hospital, DC",4.34
+GASTR_02,Dr. Brian Smith,Gastroenterologist,9,"Palmerbury Hospital, MT",4.11
+GASTR_03,Dr. Joseph Rodriguez,Gastroenterologist,32,"South Jenniferside Hospital, FL",4.02
+GASTR_04,Dr. Tracy Reed,Gastroenterologist,35,"Lake Joseph Hospital, WY",3.65
+GASTR_05,Dr. Thomas Frost,Gastroenterologist,10,"North Julie Hospital, AL",4.32
+GASTR_06,Dr. Dustin Zuniga,Gastroenterologist,35,"Robertmouth Hospital, UT",3.65
+GASTR_07,Dr. Emily Hill,Gastroenterologist,18,"Jeffreyhaven Hospital, LA",3.83
+GASTR_08,Dr. Heather Daniels,Gastroenterologist,26,"Port Bryan Hospital, MN",4.2
+GASTR_09,Dr. James Taylor,Gastroenterologist,23,"West Judithport Hospital, NC",3.54
+GASTR_10,Dr. Michael Martin,Gastroenterologist,6,"North Jonathanport Hospital, WY",3.55
+PSYCH_01,Dr. Mark Colon,Psychiatrist,25,"Cannonport Hospital, MT",4.41
+PSYCH_02,Dr. Abigail Tapia,Psychiatrist,35,"Tiffanyview Hospital, OH",4.01
+PSYCH_03,Dr. Joe Ray,Psychiatrist,37,"Danielleland Hospital, AZ",4.05
+PSYCH_04,Dr. Sandra Schneider,Psychiatrist,28,"Haasshire Hospital, KY",3.76
+PSYCH_05,Dr. Jack Floyd,Psychiatrist,31,"South Aliciaburgh Hospital, SC",3.61
+PSYCH_06,Dr. Bradley Herring,Psychiatrist,15,"Markport Hospital, CT",3.54
+PSYCH_07,Dr. William Burnett,Psychiatrist,38,"West Seantown Hospital, MD",4.3
+PSYCH_08,Dr. Dawn Johnson,Psychiatrist,20,"Jeremyshire Hospital, NE",4.07
+PSYCH_09,Dr. Jimmy Allen,Psychiatrist,7,"West Wesley Hospital, NY",3.98
+PSYCH_10,Dr. Sarah Kelly,Psychiatrist,30,"Patrickburgh Hospital, FL",4.44
+ONCOL_01,Dr. Jason Benson,Oncologist,5,"Carsonton Hospital, NV",4.61
+ONCOL_02,Dr. Andrew Richmond,Oncologist,33,"Davisport Hospital, VT",4.99
+ONCOL_03,Dr. Joshua Griffin,Oncologist,15,"New Andrea Hospital, VA",4.94
+ONCOL_04,Dr. Matthew Ross,Oncologist,29,"Lopezstad Hospital, MS",4.0
+ONCOL_05,Dr. David Miller,Oncologist,25,"Lake Courtney Hospital, MA",3.97
+ONCOL_06,Dr. Kevin Stewart,Oncologist,35,"Port Erichaven Hospital, IL",4.97
+ONCOL_07,Dr. Lisa Taylor,Oncologist,21,"Josephville Hospital, WI",4.0
+ONCOL_08,Dr. Stephanie Nash,Oncologist,15,"New David Hospital, TN",4.81
+ONCOL_09,Dr. Alex Lamb,Oncologist,5,"Carpenterstad Hospital, PA",3.59
+ONCOL_10,Dr. Jenny Webb,Oncologist,19,"New Teresa Hospital, VA",4.43
+ENDOC_01,Dr. Maria Garcia,Endocrinologist,11,"Leeland Hospital, VT",4.39
+ENDOC_02,Dr. Shelly Martin,Endocrinologist,7,"Jasonview Hospital, TX",4.76
+ENDOC_03,Dr. Christy Maxwell,Endocrinologist,38,"Ashleyville Hospital, ID",3.52
+ENDOC_04,Dr. Jacqueline Valenzuela,Endocrinologist,20,"East Tarahaven Hospital, LA",4.38
+ENDOC_05,Dr. Valerie Parks,Endocrinologist,12,"Meyerport Hospital, MS",3.99
+ENDOC_06,Dr. Eric Parrish,Endocrinologist,28,"Marksville Hospital, WA",4.44
+ENDOC_07,Dr. Darryl Johnson,Endocrinologist,17,"New Tiffanyville Hospital, CT",4.95
+ENDOC_08,Dr. Joseph Esparza,Endocrinologist,12,"Joneschester Hospital, DE",3.94
+ENDOC_09,Dr. Kelly Cruz,Endocrinologist,20,"South Nicolefort Hospital, AR",4.48
+ENDOC_10,Dr. Douglas Cook,Endocrinologist,7,"Clarkmouth Hospital, TX",3.51
+PULMO_01,Dr. Ryan Taylor,Pulmonologist,22,"Port Rebeccaside Hospital, RI",4.64
+PULMO_02,Dr. Stephen Perez,Pulmonologist,18,"Stewartmouth Hospital, ME",4.57
+PULMO_03,Dr. Aaron Payne,Pulmonologist,30,"Williamchester Hospital, KS",3.59
+PULMO_04,Dr. Daniel Martin,Pulmonologist,6,"North Brandonbury Hospital, OK",3.51
+PULMO_05,Dr. Richard Reilly,Pulmonologist,15,"Juliastad Hospital, OH",4.29
+PULMO_06,Dr. Justin Warner,Pulmonologist,33,"West Nathaniel Hospital, AR",4.08
+PULMO_07,Dr. Debra Fisher,Pulmonologist,32,"Josephborough Hospital, NJ",4.82
+PULMO_08,Dr. Evelyn Perry,Pulmonologist,23,"Lake Molly Hospital, ND",4.3
+PULMO_09,Dr. Tammy Smith,Pulmonologist,39,"South Sierra Hospital, NY",3.93
+PULMO_10,Dr. Kim Frederick,Pulmonologist,12,"West Lisa Hospital, VT",4.6
+NEPHR_01,Dr. Darren Smith,Nephrologist,40,"South Timothybury Hospital, IA",4.61
+NEPHR_02,Dr. Laura Castillo,Nephrologist,38,"East Rebecca Hospital, AZ",4.4
+NEPHR_03,Dr. Daniel Black,Nephrologist,33,"Johnsonport Hospital, SD",3.83
+NEPHR_04,Dr. Jason Stewart,Nephrologist,28,"Port Kelly Hospital, SC",3.51
+NEPHR_05,Dr. Ronald Owens,Nephrologist,32,"Port Cynthia Hospital, LA",3.92
+NEPHR_06,Dr. Michelle Valdez,Nephrologist,29,"Thompsonborough Hospital, OK",3.52
+NEPHR_07,Dr. Justin Brown,Nephrologist,24,"New William Hospital, AR",4.6
+NEPHR_08,Dr. Lisa Myers,Nephrologist,37,"Bradymouth Hospital, NE",4.7
+NEPHR_09,Dr. Mitchell Wallace,Nephrologist,7,"Reynoldsbury Hospital, WA",3.77
+NEPHR_10,Dr. Tracey Levine,Nephrologist,11,"New Joshua Hospital, DC",3.54
+UROLO_01,Dr. Donna Watson,Urologist,12,"Campbellview Hospital, TN",4.82
+UROLO_02,Dr. Michael Ray,Urologist,26,"Pearsonmouth Hospital, WV",4.93
+UROLO_03,Dr. Raymond Hall,Urologist,17,"Stevensmouth Hospital, NE",4.12
+UROLO_04,Dr. Julie Lewis,Urologist,11,"East Johnport Hospital, VA",4.05
+UROLO_05,Dr. Jennifer Howe,Urologist,40,"South Lindaton Hospital, IA",4.07
+UROLO_06,Dr. Christopher Cabrera,Urologist,38,"North Ian Hospital, VT",3.58
+UROLO_07,Dr. Timothy Kramer,Urologist,13,"Port Lisa Hospital, VA",3.67
+UROLO_08,Dr. Christy Johnson,Urologist,36,"Port Amy Hospital, CA",4.38
+UROLO_09,Dr. Courtney Mullins,Urologist,16,"Stephaniefort Hospital, VT",4.88
+UROLO_10,Dr. Calvin Williamson,Urologist,5,"South Brittany Hospital, LA",4.9
+OPHTH_01,Dr. Shelly Knight,Ophthalmologist,40,"East Pamelafurt Hospital, IA",4.16
+OPHTH_02,Dr. Craig Stevenson,Ophthalmologist,25,"Stephenstown Hospital, AL",3.65
+OPHTH_03,Dr. Jennifer Perez,Ophthalmologist,27,"North Raymond Hospital, ID",4.93
+OPHTH_04,Dr. Amy Kent,Ophthalmologist,29,"West Connormouth Hospital, NM",4.92
+OPHTH_05,Dr. Kimberly Hammond,Ophthalmologist,39,"Andersontown Hospital, KS",4.58
+OPHTH_06,Dr. Summer Gentry,Ophthalmologist,31,"Villarrealstad Hospital, CO",3.84
+OPHTH_07,Dr. Rebecca Jones,Ophthalmologist,30,"Port Amandaview Hospital, LA",4.63
+OPHTH_08,Dr. Kelly Hanson,Ophthalmologist,27,"New Katherine Hospital, AZ",4.69
+OPHTH_09,Dr. Michael Suarez,Ophthalmologist,30,"Longtown Hospital, KS",4.62
+OPHTH_10,Dr. Michael Reyes,Ophthalmologist,29,"New Rachelhaven Hospital, KS",4.07
+RHEUM_01,Dr. Robert Rodriguez,Rheumatologist,36,"Moodytown Hospital, FL",4.44
+RHEUM_02,Dr. Shelby Powell,Rheumatologist,7,"Franciscoberg Hospital, DC",3.84
+RHEUM_03,Dr. Mark Wilson,Rheumatologist,24,"Snydershire Hospital, KS",4.04
+RHEUM_04,Dr. Derek Hamilton,Rheumatologist,31,"Charleschester Hospital, RI",4.47
+RHEUM_05,Dr. Raymond Barton,Rheumatologist,7,"Garciahaven Hospital, NV",4.22
+RHEUM_06,Dr. Dawn Deleon,Rheumatologist,28,"Lake Craig Hospital, NC",4.05
+RHEUM_07,Dr. Carla Rodriguez,Rheumatologist,15,"Torresburgh Hospital, IN",4.56
+RHEUM_08,Dr. Betty Matthews,Rheumatologist,36,"Derekmouth Hospital, MA",3.59
+RHEUM_09,Dr. Douglas Preston,Rheumatologist,5,"Joneston Hospital, WI",4.52
+RHEUM_10,Dr. Laura Jackson,Rheumatologist,27,"East Amy Hospital, MI",4.49
+ENT S_01,Dr. Melissa Sherman,ENT Specialist,10,"Danaburgh Hospital, WA",4.44
+ENT S_02,Dr. Victoria Rangel,ENT Specialist,14,"Ramseyburgh Hospital, NM",4.86
+ENT S_03,Dr. Nichole Howard,ENT Specialist,34,"Kennedyfurt Hospital, KS",4.34
+ENT S_04,Dr. Michael Rogers,ENT Specialist,8,"Blackville Hospital, FL",3.81
+ENT S_05,Dr. Sandra Brooks,ENT Specialist,23,"North Leonardfurt Hospital, CA",3.93
+ENT S_06,Dr. Jose Robinson,ENT Specialist,24,"Curtisborough Hospital, NJ",4.3
+ENT S_07,Dr. Anita Smith,ENT Specialist,18,"Victoriaville Hospital, NE",4.37
+ENT S_08,Dr. Kimberly Lester,ENT Specialist,21,"Larryberg Hospital, NM",4.64
+ENT S_09,Dr. Robert Bray,ENT Specialist,6,"East Toddberg Hospital, MI",4.33
+ENT S_10,Dr. Teresa Velazquez,ENT Specialist,13,"Lake Christinechester Hospital, FL",4.1
+ALLER_01,Dr. Douglas Hatfield,Allergist,16,"Jimenezberg Hospital, MN",4.47
+ALLER_02,Dr. Benjamin Lawson,Allergist,14,"East Karenmouth Hospital, MO",4.94
+ALLER_03,Dr. Amanda Nichols,Allergist,37,"East Angela Hospital, MO",4.88
+ALLER_04,Dr. Jon Ramos,Allergist,37,"Drewbury Hospital, MN",4.48
+ALLER_05,Dr. Jared Walker,Allergist,32,"West Melissashire Hospital, CT",5.0
+ALLER_06,Dr. Derrick Blackwell,Allergist,9,"East Danaview Hospital, NM",4.04
+ALLER_07,Dr. Mary Rodriguez,Allergist,27,"Walkerville Hospital, LA",4.54
+ALLER_08,Dr. Joel Jenkins,Allergist,14,"Douglasfort Hospital, MA",4.93
+ALLER_09,Dr. Timothy Coleman,Allergist,31,"Stephensfurt Hospital, DC",4.59
+ALLER_10,Dr. Timothy Powell,Allergist,9,"New Joshua Hospital, IN",4.74
+HEMAT_01,Dr. Ronald Anderson,Hematologist,39,"Harrisshire Hospital, NE",4.59
+HEMAT_02,Dr. Dylan Hart,Hematologist,11,"Mistyport Hospital, IA",4.71
+HEMAT_03,Dr. Nicole Cortez,Hematologist,39,"Kylestad Hospital, MA",3.5
+HEMAT_04,Dr. Timothy Callahan,Hematologist,28,"South Dianaborough Hospital, TX",4.23
+HEMAT_05,Dr. Gina King,Hematologist,21,"Port Meghanborough Hospital, DE",3.56
+HEMAT_06,Dr. Corey Martin,Hematologist,23,"Mccartymouth Hospital, TX",4.98
+HEMAT_07,Dr. Matthew Maldonado,Hematologist,37,"Sherryfort Hospital, AL",3.72
+HEMAT_08,Dr. Scott Williams,Hematologist,26,"Robertsmouth Hospital, WI",4.78
+HEMAT_09,Dr. Bryan Sheppard,Hematologist,8,"Sergioview Hospital, VA",3.52
+HEMAT_10,Dr. Taylor Molina,Hematologist,29,"South Mary Hospital, IN",3.57
+INFEC_01,Dr. Timothy Bass,Infectious Disease Specialist,40,"Barbarabury Hospital, NC",4.78
+INFEC_02,Dr. Gregory Powers,Infectious Disease Specialist,15,"Kevinfort Hospital, AL",4.52
+INFEC_03,Dr. Shelly Randolph,Infectious Disease Specialist,13,"West Matthewbury Hospital, NH",4.56
+INFEC_04,Dr. Brenda Morgan,Infectious Disease Specialist,5,"Port Matthew Hospital, TX",3.8
+INFEC_05,Dr. Kathryn Daniel,Infectious Disease Specialist,35,"Wallaceside Hospital, OH",4.51
+INFEC_06,Dr. Patrick Harrison,Infectious Disease Specialist,15,"Erinmouth Hospital, MT",3.65
+INFEC_07,Dr. Janet Yang,Infectious Disease Specialist,33,"Melanieland Hospital, DE",3.59
+INFEC_08,Dr. Heather Mayer,Infectious Disease Specialist,32,"Calebton Hospital, DE",4.48
+INFEC_09,Dr. Alice Crawford,Infectious Disease Specialist,28,"Robertville Hospital, NJ",4.4
+INFEC_10,Dr. Dominique Mcclure,Infectious Disease Specialist,30,"South Tylerland Hospital, MO",4.88
+GENER_01,Dr. Zachary Guerra,General Surgeon,27,"West David Hospital, MI",3.63
+GENER_02,Dr. Denise Crane,General Surgeon,25,"Wilsontown Hospital, NV",4.84
+GENER_03,Dr. Jennifer Olsen,General Surgeon,25,"South Joseph Hospital, WY",4.0
+GENER_04,Dr. Christy Williams,General Surgeon,26,"Scottport Hospital, RI",3.77
+GENER_05,Dr. Timothy Rhodes,General Surgeon,39,"Johnsonmouth Hospital, AL",3.71
+GENER_06,Dr. Ronnie Buckley,General Surgeon,6,"Johnsport Hospital, GA",4.65
+GENER_07,Dr. Andrew Smith,General Surgeon,6,"Tamaraburgh Hospital, PA",4.37
+GENER_08,Dr. Daniel Lucas,General Surgeon,28,"West Taylorport Hospital, WI",4.13
+GENER_09,Dr. Teresa Weber,General Surgeon,12,"East Phillip Hospital, HI",3.8
+GENER_10,Dr. Joy Burns,General Surgeon,24,"Lake Todd Hospital, TN",4.34
+FAMIL_01,Dr. Wendy Sanchez,Family Physician,26,"West Bridgetview Hospital, CT",3.96
+FAMIL_02,Dr. Nicole Stevens,Family Physician,26,"Philliptown Hospital, NC",3.81
+FAMIL_03,Dr. Sue Leonard,Family Physician,32,"Wesleytown Hospital, OR",4.91
+FAMIL_04,Dr. Sharon Kramer,Family Physician,28,"West Ronald Hospital, VA",3.55
+FAMIL_05,Dr. Matthew Wells,Family Physician,15,"Lake Ashleyberg Hospital, OH",4.9
+FAMIL_06,Dr. Jacob Ray,Family Physician,18,"North Stevenberg Hospital, DC",4.24
+FAMIL_07,Dr. Jacob Johnson,Family Physician,10,"Mikaylafort Hospital, NJ",4.87
+FAMIL_08,Dr. Joseph Ross,Family Physician,25,"Juliamouth Hospital, NM",4.06
+FAMIL_09,Dr. Jessica Griffin,Family Physician,25,"North Kimberlyfort Hospital, CO",4.14
+FAMIL_10,Dr. Bridget Wright,Family Physician,19,"West Katherineport Hospital, CT",3.94
